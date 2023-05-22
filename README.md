@@ -20,3 +20,6 @@
 2) Also add your Google map API key in AndroidMainfiest File and in app_constants.dart
 
 ![Preview](./carbook_app.jpg)
+
+https://github.com/HypeTeqSoftware/CarBookApp/assets/106724238/4c4635e0-daba-48c3-840b-2b85f1c048b5
+
